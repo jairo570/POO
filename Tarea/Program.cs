@@ -1,28 +1,61 @@
 ﻿using System;
 
-
-namespace _2._3this
+namespace _4._2_Poo_Tarea
 {
-    class Dino
+    abstract class Musico
     {
-        protected string n;
-
-        public Dino(string n)
+        public string nombre;
+        public Musico(string n)
         {
-            this.n = n;
+            nombre = n;
         }
-
-        public void Imprimir()
+        public virtual void Afina() { }
+        public string GetNombre()
         {
-            Console.WriteLine("El " + n + " es un carnivoro");
+            return nombre;
         }
     }
-    class MainClass
+    class Bajista : Musico
     {
-        public static void Main(string[] args)
+        public string instrumento;
+        public Bajista(string n, string i): base(n)
         {
-            Dino d = new Dino("Velociraptor");
-            d.Imprimir();
+            instrumento = i;
+        }
+	    public override void Afina()
+        {
+            Console.WriteLine("Afiando el {0}", instrumento);
+        }
+    }
+
+        class Guitarrista : Musico
+        {
+            public string instrumento;
+
+            public Guitarrista(string n, string i) :base(n)
+            {
+                instrumento = i;
+            }
+
+            public override void Afina()
+            {
+                Console.WriteLine("Afiando el {0}", instrumento);
+            }
+
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Bajista b = new Bajista("Flea", "Bajo");
+            Guitarrista g = new Guitarrista("Santana", "Guitarra");
+
+            b.Afina();
+            g.Afina();
+
+            Console.ReadKey();
         }
     }
 }
