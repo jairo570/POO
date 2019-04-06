@@ -1,61 +1,46 @@
 ﻿using System;
 
-namespace _4._2_Poo_Tarea
+namespace _4._1_Poo_Tarea
 {
-    abstract class Musico
-    {
-        public string nombre;
-        public Musico(string n)
-        {
-            nombre = n;
-        }
-        public virtual void Afina() { }
-        public string GetNombre()
-        {
-            return nombre;
-        }
-    }
-    class Bajista : Musico
-    {
-        public string instrumento;
-        public Bajista(string n, string i): base(n)
-        {
-            instrumento = i;
-        }
-	    public override void Afina()
-        {
-            Console.WriteLine("Afiando el {0}", instrumento);
-        }
-    }
+    class A
 
-        class Guitarrista : Musico
-        {
-            public string instrumento;
+	{
+		public int a;
+		public A()
+		{
+			a = 10;
+		}
 
-            public Guitarrista(string n, string i) :base(n)
-            {
-                instrumento = i;
-            }
+		public virtual string Display()
+		{
+			return a.ToString();
+		}
 
-            public override void Afina()
-            {
-                Console.WriteLine("Afiando el {0}", instrumento);
-            }
+	}
 
-        }
-    }
+	class B:A
+	{
+		public int b;
 
+		public B():base()
+		{
+			b = 15;
+		}
+
+		public override string Display ()
+		{
+			return b.ToString ();
+		}
+	}
     class Program
     {
         static void Main(string[] args)
         {
-            Bajista b = new Bajista("Flea", "Bajo");
-            Guitarrista g = new Guitarrista("Santana", "Guitarra");
+            A objA = new A();
+			B objB = new B();
 
-            b.Afina();
-            g.Afina();
-
-            Console.ReadKey();
+			Console.WriteLine(objA.Display());
+			Console. WriteLine(objB.Display());
         }
     }
 }
