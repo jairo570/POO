@@ -1,61 +1,108 @@
 ﻿using System;
+using System.Collections.Generic;
 
-namespace _4._2_Poo_Tarea
+
+namespace tarea_3
 {
-    abstract class Musico
+    class Vector2d
     {
-        public string nombre;
-        public Musico(string n)
+        public int x, y;
+        public Vector2d(int x, int y)
         {
-            nombre = n;
+            this.x = x; this.y = y;
         }
-        public virtual void Afina() { }
-        public string GetNombre()
+        public override string ToString()
         {
-            return nombre;
+            return String.Format("{0},{1}", x, y);
         }
     }
-    class Bajista : Musico
+    abstract class Figura
     {
-        public string instrumento;
-        public Bajista(string n, string i): base(n)
+        public Vector2d position;
+        public string fill, border;
+
+        //Constructor por defecto 
+        public Figura() : this(new Vector2d(100, 100))
         {
-            instrumento = i;
+
         }
-	    public override void Afina()
+        //constructor de figura
+        public Figura(Vector2d pos)
         {
-            Console.WriteLine("Afiando el {0}", instrumento);
+            position = pos;
+            fill = "white";
+            border = "black";
+        }
+
+        public abstract void Dibuja();
+    }
+
+    class Circulo : Figura
+    {
+        private int radio;
+        public Circulo(Vector2d pos, int radio) : base(pos)
+        {
+            this.radio = radio;
+        }
+        public Circulo() : base()
+        {
+            this.radio = 10;
+        }
+
+        public override void Dibuja()
+        {
+            Console.WriteLine("Se dibuja un circulo en {0} de color {1}", position, fill);
         }
     }
 
-        class Guitarrista : Musico
+    class Rectangulo : Figura
+    {
+
+        public Rectangulo(Vector2d pos) : base(pos)
         {
-            public string instrumento;
 
-            public Guitarrista(string n, string i) :base(n)
-            {
-                instrumento = i;
-            }
+        }
+        public Rectangulo() : base()
+        {
 
-            public override void Afina()
-            {
-                Console.WriteLine("Afiando el {0}", instrumento);
-            }
+        }
 
+        public override void Dibuja()
+        {
+            Console.WriteLine("Se dibuja un Rectangulo en {0} de color {1}", position, fill);
         }
     }
 
+    class Cuadrado : Figura
+    {
+        public Cuadrado(Vector2d pos) : base(pos)
+        {
+
+        }
+        public Cuadrado() : base()
+        {
+
+        }
+
+        public override void Dibuja()
+        {
+            Console.WriteLine("Se dibuja un Cuadrado en {0} de color {1}", position, fill);
+        }
+    }
     class Program
     {
         static void Main(string[] args)
         {
-            Bajista b = new Bajista("Flea", "Bajo");
-            Guitarrista g = new Guitarrista("Santana", "Guitarra");
 
-            b.Afina();
-            g.Afina();
-
+            List<Figura> figuras = new List<Figura>();
+            figuras.Add(new Circulo());
+            figuras.Add(new Rectangulo(new Vector2d(200, 100)));
+            figuras.Add(new Cuadrado(new Vector2d(200, 200)));
+            foreach (Figura f in figuras)
+                f.Dibuja();
             Console.ReadKey();
+
         }
     }
 }
+
