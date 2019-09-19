@@ -19,10 +19,18 @@ Instalacion y configuracion de Visual Studio Code para c#
 ![instalacion de extenciones](https://user-images.githubusercontent.com/47792507/65208415-e0c53880-da49-11e9-86eb-1e6fb1fdd447.png)
 derechos reservados . Autor:Jorge Turrado licencia:© Krasis Consulting S.L.U. - Aviso Legal y Política de privacidad - Política de Cookies
 5.-recargar extenciones
+
+
 ![usar](https://user-images.githubusercontent.com/47792507/65208837-10c10b80-da4b-11e9-8e55-4bffc8df202d.png)
+
+
 derechos reservados . Autor:Jorge Turrado licencia:© Krasis Consulting S.L.U. - Aviso Legal y Política de privacidad - Política de Cookies
-5.-instalacion de git
+1.-instalacion de git
+
+
 ![git](https://user-images.githubusercontent.com/47792507/65209035-aceb1280-da4b-11e9-8722-ba50549be4b4.png)
+
+
 derechos reservados  de git
 autor Git, licencia : Git
 vicular GitHub y VSC
@@ -31,7 +39,10 @@ DERECHOS RESERVADOS Al autor : Bartolomé Sintes Marco ,licencia:  Licencia Crea
 fecha de la pagina: 29 de enero de 2018
 1.-elegir lugar de guardado
 
+
 ![guardar](https://user-images.githubusercontent.com/47792507/65209458-13bcfb80-da4d-11e9-8559-7aaece877a98.png)
+
+
 2.-abrir carpeta en visual studio code
 
 ![abrir carpeta en visual studio code](https://user-images.githubusercontent.com/47792507/65209564-6ac2d080-da4d-11e9-8953-7e0b68dfa8e1.png)
