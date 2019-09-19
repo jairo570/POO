@@ -30,20 +30,31 @@ Todos los datos de la vinculacion de Github y vsc , e imagenes son:
 DERECHOS RESERVADOS Al autor : Bartolomé Sintes Marco ,licencia:  Licencia Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional (CC BY-SA 4.0). Link: de consulta:http://www.mclibre.org/consultar/informatica/lecciones/vsc-git-repositorio.html
 fecha de la pagina: 29 de enero de 2018
 1.-elegir lugar de guardado
+
 ![guardar](https://user-images.githubusercontent.com/47792507/65209458-13bcfb80-da4d-11e9-8559-7aaece877a98.png)
 2.-abrir carpeta en visual studio code
+
 ![abrir carpeta en visual studio code](https://user-images.githubusercontent.com/47792507/65209564-6ac2d080-da4d-11e9-8953-7e0b68dfa8e1.png)
+
 3.Para clonar el repositorio necesitará dos rutas (el origen y el destino):
 La URL de repositorio, que se puede copiar desde el propio repositorio haciendo clic en el botón "Clone or download".
 Esta URL es la misma URL que aparece en el navegador pero terminada en .git.
+
 ![clonar](https://user-images.githubusercontent.com/47792507/65209813-02c0ba00-da4e-11e9-879f-e35797b889b3.png)
+
 4.La ruta del directorio de destino, es decir, la ruta de la carpeta en la que se va a crear la carpeta que contendrá la copia del repositorio. Esta ruta se puede copiar del Explorador de Windows.
 En la captura de ejemplo, el directorio de destino es C:\Users\Barto\Documents\LMSGI\Barto\Repositorios
+
 ![ruta](https://user-images.githubusercontent.com/47792507/65209947-61863380-da4e-11e9-82a1-d8adac755585.png)
+
+
 5.Escriba el comando git:clone y pulse Intro:
+
 ![clonar datos](https://user-images.githubusercontent.com/47792507/65210058-bf1a8000-da4e-11e9-9d28-1174b9eb03f9.png)
+
 6.-poner donde se va aguardar , en escritorio  o un USB
 7.-En unos segundos se mostrará la carpeta del repositorio clonado en la barra del explorador y se ofrecerá la posibilidad de abrir la carpeta del repositorio clonado. Haga clic en "Abrir repositorio".
+
 ![clonacion finalizada](https://user-images.githubusercontent.com/47792507/65210160-23d5da80-da4f-11e9-8fb7-3aabddecdc4c.png)
 finalizacion 
 
