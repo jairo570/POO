@@ -1,0 +1,11 @@
+d:\peliculas\pelicula\bin\Debug\netcoreapp2.2\pelicula.deps.json
+d:\peliculas\pelicula\bin\Debug\netcoreapp2.2\pelicula.runtimeconfig.json
+d:\peliculas\pelicula\bin\Debug\netcoreapp2.2\pelicula.runtimeconfig.dev.json
+d:\peliculas\pelicula\bin\Debug\netcoreapp2.2\pelicula.dll
+d:\peliculas\pelicula\bin\Debug\netcoreapp2.2\pelicula.pdb
+d:\peliculas\pelicula\obj\Debug\netcoreapp2.2\pelicula.csprojAssemblyReference.cache
+d:\peliculas\pelicula\obj\Debug\netcoreapp2.2\pelicula.csproj.CoreCompileInputs.cache
+d:\peliculas\pelicula\obj\Debug\netcoreapp2.2\pelicula.AssemblyInfoInputs.cache
+d:\peliculas\pelicula\obj\Debug\netcoreapp2.2\pelicula.AssemblyInfo.cs
+d:\peliculas\pelicula\obj\Debug\netcoreapp2.2\pelicula.dll
+d:\peliculas\pelicula\obj\Debug\netcoreapp2.2\pelicula.pdb
