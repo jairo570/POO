@@ -1,0 +1,11 @@
+F:\Parametros\parametro\bin\Debug\netcoreapp2.2\parametro.deps.json
+F:\Parametros\parametro\bin\Debug\netcoreapp2.2\parametro.runtimeconfig.json
+F:\Parametros\parametro\bin\Debug\netcoreapp2.2\parametro.runtimeconfig.dev.json
+F:\Parametros\parametro\bin\Debug\netcoreapp2.2\parametro.dll
+F:\Parametros\parametro\bin\Debug\netcoreapp2.2\parametro.pdb
+F:\Parametros\parametro\obj\Debug\netcoreapp2.2\parametro.csprojAssemblyReference.cache
+F:\Parametros\parametro\obj\Debug\netcoreapp2.2\parametro.csproj.CoreCompileInputs.cache
+F:\Parametros\parametro\obj\Debug\netcoreapp2.2\parametro.AssemblyInfoInputs.cache
+F:\Parametros\parametro\obj\Debug\netcoreapp2.2\parametro.AssemblyInfo.cs
+F:\Parametros\parametro\obj\Debug\netcoreapp2.2\parametro.dll
+F:\Parametros\parametro\obj\Debug\netcoreapp2.2\parametro.pdb
