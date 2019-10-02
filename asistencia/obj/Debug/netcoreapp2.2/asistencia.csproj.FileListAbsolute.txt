@@ -1,0 +1,11 @@
+F:\Asistencia\asistencia\bin\Debug\netcoreapp2.2\asistencia.deps.json
+F:\Asistencia\asistencia\bin\Debug\netcoreapp2.2\asistencia.runtimeconfig.json
+F:\Asistencia\asistencia\bin\Debug\netcoreapp2.2\asistencia.runtimeconfig.dev.json
+F:\Asistencia\asistencia\bin\Debug\netcoreapp2.2\asistencia.dll
+F:\Asistencia\asistencia\bin\Debug\netcoreapp2.2\asistencia.pdb
+F:\Asistencia\asistencia\obj\Debug\netcoreapp2.2\asistencia.csprojAssemblyReference.cache
+F:\Asistencia\asistencia\obj\Debug\netcoreapp2.2\asistencia.csproj.CoreCompileInputs.cache
+F:\Asistencia\asistencia\obj\Debug\netcoreapp2.2\asistencia.AssemblyInfoInputs.cache
+F:\Asistencia\asistencia\obj\Debug\netcoreapp2.2\asistencia.AssemblyInfo.cs
+F:\Asistencia\asistencia\obj\Debug\netcoreapp2.2\asistencia.dll
+F:\Asistencia\asistencia\obj\Debug\netcoreapp2.2\asistencia.pdb
