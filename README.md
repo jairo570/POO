@@ -35,5 +35,9 @@ https://github.com/jairo570/POO/blob/master/pelicula/Program.cs
 https://github.com/jairo570/POO/blob/master/pelicula/Program.cs
 
 Unidad 2
+
+1.-parametros 
+
+https://github.com/jairo570/POO/blob/master/parametro/Program.cs
 Unidad 3
 Unidad 4
