@@ -39,5 +39,14 @@ Unidad 2
 1.-parametros 
 
 https://github.com/jairo570/POO/blob/master/parametro/Program.cs
+
+2.-juego de la vida:
+
+https://github.com/jairo570/POO/blob/master/juego%20de%20la%20vida/juego/Program.cs
+
+
+
 Unidad 3
+
+
 Unidad 4
