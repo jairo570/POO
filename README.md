@@ -2,7 +2,9 @@
 Tareas y Trabajos
 
 
+asistencia:
 
+https://github.com/jairo570/POO/blob/master/asistencia/Program.cs
 
 Unidad 1 :
 1.-Crear Repositorio en Github :
