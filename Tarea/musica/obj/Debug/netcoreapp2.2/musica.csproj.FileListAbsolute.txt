@@ -1,0 +1,11 @@
+F:\musico\musica\obj\Debug\netcoreapp2.2\musica.csprojAssemblyReference.cache
+F:\musico\musica\obj\Debug\netcoreapp2.2\musica.csproj.CoreCompileInputs.cache
+F:\musico\musica\obj\Debug\netcoreapp2.2\musica.AssemblyInfoInputs.cache
+F:\musico\musica\obj\Debug\netcoreapp2.2\musica.AssemblyInfo.cs
+F:\musico\musica\bin\Debug\netcoreapp2.2\musica.deps.json
+F:\musico\musica\bin\Debug\netcoreapp2.2\musica.runtimeconfig.json
+F:\musico\musica\bin\Debug\netcoreapp2.2\musica.runtimeconfig.dev.json
+F:\musico\musica\bin\Debug\netcoreapp2.2\musica.dll
+F:\musico\musica\bin\Debug\netcoreapp2.2\musica.pdb
+F:\musico\musica\obj\Debug\netcoreapp2.2\musica.dll
+F:\musico\musica\obj\Debug\netcoreapp2.2\musica.pdb
