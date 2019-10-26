@@ -19,6 +19,7 @@ namespace gol
             this.renglon = renglon;
             this.columna = columna;
         }
+        //error
         public void actualiza_estado(){
         }
         public short num_vecinas()
