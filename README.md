@@ -46,6 +46,12 @@ https://github.com/jairo570/POO/blob/master/parametro/Program.cs
 
 https://github.com/jairo570/POO/blob/master/juego%20de%20la%20vida/juego/Program.cs
 
+3.-musico
+
+1.1 : https://github.com/jairo570/POO/blob/master/Tarea/musica/Program.cs
+
+1.2 : pendiente
+
 
 
 Unidad 3
