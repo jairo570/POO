@@ -1,0 +1,11 @@
+F:\ilustrador\figura\bin\Debug\netcoreapp2.2\figura.deps.json
+F:\ilustrador\figura\bin\Debug\netcoreapp2.2\figura.runtimeconfig.json
+F:\ilustrador\figura\bin\Debug\netcoreapp2.2\figura.runtimeconfig.dev.json
+F:\ilustrador\figura\bin\Debug\netcoreapp2.2\figura.dll
+F:\ilustrador\figura\bin\Debug\netcoreapp2.2\figura.pdb
+F:\ilustrador\figura\obj\Debug\netcoreapp2.2\figura.csprojAssemblyReference.cache
+F:\ilustrador\figura\obj\Debug\netcoreapp2.2\figura.csproj.CoreCompileInputs.cache
+F:\ilustrador\figura\obj\Debug\netcoreapp2.2\figura.AssemblyInfoInputs.cache
+F:\ilustrador\figura\obj\Debug\netcoreapp2.2\figura.AssemblyInfo.cs
+F:\ilustrador\figura\obj\Debug\netcoreapp2.2\figura.dll
+F:\ilustrador\figura\obj\Debug\netcoreapp2.2\figura.pdb
