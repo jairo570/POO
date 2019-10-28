@@ -61,6 +61,10 @@ https://github.com/jairo570/POO/blob/master/alumno/Program.cs
 
 https://github.com/jairo570/POO/blob/master/Tarea/faceclon/publicacion/Program.cs
 
+6.-figura
+
+https://github.com/jairo570/POO/blob/master/ilustrador/figura/Program.cs
+
 
 Unidad 3
 
