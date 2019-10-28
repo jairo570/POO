@@ -1,0 +1,11 @@
+F:\faceclon\publicacion\bin\Debug\netcoreapp2.2\publicacion.deps.json
+F:\faceclon\publicacion\bin\Debug\netcoreapp2.2\publicacion.runtimeconfig.json
+F:\faceclon\publicacion\bin\Debug\netcoreapp2.2\publicacion.runtimeconfig.dev.json
+F:\faceclon\publicacion\bin\Debug\netcoreapp2.2\publicacion.dll
+F:\faceclon\publicacion\bin\Debug\netcoreapp2.2\publicacion.pdb
+F:\faceclon\publicacion\obj\Debug\netcoreapp2.2\publicacion.csprojAssemblyReference.cache
+F:\faceclon\publicacion\obj\Debug\netcoreapp2.2\publicacion.csproj.CoreCompileInputs.cache
+F:\faceclon\publicacion\obj\Debug\netcoreapp2.2\publicacion.AssemblyInfoInputs.cache
+F:\faceclon\publicacion\obj\Debug\netcoreapp2.2\publicacion.AssemblyInfo.cs
+F:\faceclon\publicacion\obj\Debug\netcoreapp2.2\publicacion.dll
+F:\faceclon\publicacion\obj\Debug\netcoreapp2.2\publicacion.pdb
