@@ -51,10 +51,15 @@ https://github.com/jairo570/POO/blob/master/juego%20de%20la%20vida/juego/Program
 3.1 : https://github.com/jairo570/POO/blob/master/Tarea/musica/Program.cs
 
 3.2 : pendiente
+
+
 4.-alumno:
+
 https://github.com/jairo570/POO/blob/master/alumno/Program.cs
 
+5.-ejemplo faceclon
 
+https://github.com/jairo570/POO/blob/master/Tarea/faceclon/publicacion/Program.cs
 
 
 Unidad 3
