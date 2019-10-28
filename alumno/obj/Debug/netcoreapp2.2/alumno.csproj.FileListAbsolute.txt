@@ -1,0 +1,11 @@
+F:\alumnos\alumno\obj\Debug\netcoreapp2.2\alumno.csprojAssemblyReference.cache
+F:\alumnos\alumno\obj\Debug\netcoreapp2.2\alumno.csproj.CoreCompileInputs.cache
+F:\alumnos\alumno\obj\Debug\netcoreapp2.2\alumno.AssemblyInfoInputs.cache
+F:\alumnos\alumno\obj\Debug\netcoreapp2.2\alumno.AssemblyInfo.cs
+F:\alumnos\alumno\bin\Debug\netcoreapp2.2\alumno.deps.json
+F:\alumnos\alumno\bin\Debug\netcoreapp2.2\alumno.runtimeconfig.json
+F:\alumnos\alumno\bin\Debug\netcoreapp2.2\alumno.runtimeconfig.dev.json
+F:\alumnos\alumno\bin\Debug\netcoreapp2.2\alumno.dll
+F:\alumnos\alumno\bin\Debug\netcoreapp2.2\alumno.pdb
+F:\alumnos\alumno\obj\Debug\netcoreapp2.2\alumno.dll
+F:\alumnos\alumno\obj\Debug\netcoreapp2.2\alumno.pdb
