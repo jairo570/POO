@@ -66,7 +66,7 @@ https://github.com/jairo570/POO/blob/master/Tarea/faceclon/publicacion/Program.c
 https://github.com/jairo570/POO/blob/master/ilustrador/figura/Program.cs
 
 
-Unidad 3
+tarea Generics
 
+https://github.com/jairo570/POO/blob/master/generic/Program.cs
 
-Unidad 4
