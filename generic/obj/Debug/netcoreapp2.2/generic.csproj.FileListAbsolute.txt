@@ -1,0 +1,11 @@
+D:\generic\generic\obj\Debug\netcoreapp2.2\generic.csprojAssemblyReference.cache
+D:\generic\generic\obj\Debug\netcoreapp2.2\generic.csproj.CoreCompileInputs.cache
+D:\generic\generic\obj\Debug\netcoreapp2.2\generic.AssemblyInfoInputs.cache
+D:\generic\generic\obj\Debug\netcoreapp2.2\generic.AssemblyInfo.cs
+D:\generic\generic\bin\Debug\netcoreapp2.2\generic.deps.json
+D:\generic\generic\bin\Debug\netcoreapp2.2\generic.runtimeconfig.json
+D:\generic\generic\bin\Debug\netcoreapp2.2\generic.runtimeconfig.dev.json
+D:\generic\generic\bin\Debug\netcoreapp2.2\generic.dll
+D:\generic\generic\bin\Debug\netcoreapp2.2\generic.pdb
+D:\generic\generic\obj\Debug\netcoreapp2.2\generic.dll
+D:\generic\generic\obj\Debug\netcoreapp2.2\generic.pdb
