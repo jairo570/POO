@@ -6,7 +6,7 @@ asistencia:
 
 https://github.com/jairo570/POO/blob/master/asistencia/Program.cs
 
-Unidad 1 :
+                                               Unidad 1 :
 1.-Crear Repositorio en Github :
 
 
@@ -36,7 +36,7 @@ https://github.com/jairo570/POO/blob/master/pelicula/Program.cs
 
 https://github.com/jairo570/POO/blob/master/pelicula/Program.cs
 
-Unidad 2
+                                             Unidad 2
 
 1.-parametros 
 
@@ -46,27 +46,38 @@ https://github.com/jairo570/POO/blob/master/parametro/Program.cs
 
 https://github.com/jairo570/POO/blob/master/juego%20de%20la%20vida/juego/Program.cs
 
-3.-musico
+3.-Domino :
 
-3.1 : https://github.com/jairo570/POO/blob/master/Tarea/musica/Program.cs
+https://github.com/jairo570/POO/blob/master/domino/Program.cs
 
-3.2 : pendiente
+4.- Duracion:
+https://github.com/jairo570/POO/blob/master/duracion/Program.cs
+  
+                                            Unidad 3
+1.-musico
 
 
-4.-alumno:
+ https://github.com/jairo570/POO/blob/master/Tarea/musica/Program.cs
+
+
+
+
+2.-alumno:
 
 https://github.com/jairo570/POO/blob/master/alumno/Program.cs
 
-5.-ejemplo faceclon
+                                         Unidad 4
+
+1.-ejemplo faceclon
 
 https://github.com/jairo570/POO/blob/master/Tarea/faceclon/publicacion/Program.cs
 
-6.-figura
+2.-figura
 
 https://github.com/jairo570/POO/blob/master/ilustrador/figura/Program.cs
 
 
-tarea Generics
+                                        tarea Generics
 
 https://github.com/jairo570/POO/blob/master/generic/Program.cs
 
