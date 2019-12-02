@@ -9,12 +9,12 @@ Materia : Programacion Orientada A Objetos
 
 Alumno: Perez Rojas Jairo Jaziel
 
-Profesor:Garcia Valdez Jose Mario
+Profesor: Garcia Valdez Jose Mario
 
-Clave:AED-1286SC2C
+Clave: AED-1286SC2C
 
 
-asistencia:
+Asistencia:
 
 https://github.com/jairo570/POO/blob/master/asistencia/Program.cs
 
@@ -50,11 +50,11 @@ https://github.com/jairo570/POO/blob/master/pelicula/Program.cs
 
                                              Unidad 2
 
-1.-parametros 
+1.-Parametros 
 
 https://github.com/jairo570/POO/blob/master/parametro/Program.cs
 
-2.-juego de la vida:
+2.-Juego de la vida:
 
 https://github.com/jairo570/POO/blob/master/juego%20de%20la%20vida/juego/Program.cs
 
@@ -66,7 +66,7 @@ https://github.com/jairo570/POO/blob/master/domino/Program.cs
 https://github.com/jairo570/POO/blob/master/duracion/Program.cs
   
                                             Unidad 3
-1.-musico
+1.-Musico
 
 
  https://github.com/jairo570/POO/blob/master/Tarea/musica/Program.cs
@@ -74,22 +74,22 @@ https://github.com/jairo570/POO/blob/master/duracion/Program.cs
 
 
 
-2.-alumno:
+2.-Alumno:
 
 https://github.com/jairo570/POO/blob/master/alumno/Program.cs
 
                                           Unidad 4
 
-1.-ejemplo faceclon
+1.-Ejemplo faceclon
 
 https://github.com/jairo570/POO/blob/master/Tarea/faceclon/publicacion/Program.cs
 
-2.-figura
+2.-Figura
 
 https://github.com/jairo570/POO/blob/master/ilustrador/figura/Program.cs
 
 
-                                        tarea Generics
+                                        Tarea Generics
 
 https://github.com/jairo570/POO/blob/master/generic/Program.cs
 
