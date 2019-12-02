@@ -1,12 +1,24 @@
-# OPP 
+                                                # OPP 
+
 Tareas y Trabajos
+
+https://github.com/mariosky/oop/blob/master/ago2019/README.md
+
+
+Materia : Programacion Orientada A Objetos
+
+Alumno: Perez Rojas Jairo Jaziel
+
+Profesor:Garcia Valdez Jose Mario
+
+Clave:AED-1286SC2C
 
 
 asistencia:
 
 https://github.com/jairo570/POO/blob/master/asistencia/Program.cs
 
-                                               Unidad 1 :
+                                               Unidad 1 
 1.-Crear Repositorio en Github :
 
 
@@ -66,7 +78,7 @@ https://github.com/jairo570/POO/blob/master/duracion/Program.cs
 
 https://github.com/jairo570/POO/blob/master/alumno/Program.cs
 
-                                         Unidad 4
+                                          Unidad 4
 
 1.-ejemplo faceclon
 
